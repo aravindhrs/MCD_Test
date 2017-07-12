@@ -1,10 +1,10 @@
 BDD internally supports TDD
-reuirements
+requirements
 feature file
 BDD tools: jbehave, cucumber
 feature file converts requirements from bussiness
 feature file(written based on gherkin language) >> cucumber/jbehave >> stepdefinition(testcase) >>TDD >> functionality(actual)
-using ghrekin we can automate the requirement collection phase
+using gherkin we can automate the requirement collection phase
 feature file creation also automated
 --------------------
 Feature file:(.feature file): shouty.feature
